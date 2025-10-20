@@ -1,0 +1,7 @@
+6
+monkey
+frog
+bison
+chinook
+puffin
+rhinoceros
